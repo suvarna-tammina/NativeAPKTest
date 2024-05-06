@@ -1,0 +1,8 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = NativeAPKTest
+BUNDLE_IDENTIFIER = myapp.nativeapktest
+
+RUNTIME_URL = https:\/\/nativeapktest100-sandbox.mxapps.io
+
+PRODUCT_NAME = NativeAPKTest
